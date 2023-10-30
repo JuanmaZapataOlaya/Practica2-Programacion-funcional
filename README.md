@@ -1,2 +1,5 @@
 # Practica2-Programacion-funcional
-Realizado por Andru Quiroz y Juan Manuel Zapata
+#Realizado por Andru Quiroz y Juan Manuel Zapata
+
+#Link del video
+
